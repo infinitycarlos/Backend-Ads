@@ -1,4 +1,4 @@
-# Residencia_Tecnologica_Backend_Bambu
+# Backend destinado a avaliação da disciplina Backend Frameworks do 3° período de ADS da Uninassau - Embarque Digital
 
 ## Alunos da equipe:
 ### Carlos João dos Santos Filho - 01648355
